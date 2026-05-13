@@ -35,9 +35,26 @@ These filters allow the dashboard to support exploratory analysis and uncover ho
 
 ---
 
+# Full Dashboard Overview
+
+![IBM Cognos Developer Dashboard](ibm-cognos-developer-dashboard.png.png)
+
+This interactive IBM Cognos Analytics dashboard provides a consolidated view of developer technology trends across multiple categories including programming languages, databases, cloud platforms, and web frameworks.
+
+The dashboard combines multiple visualization techniques to support exploratory analysis and comparative insights, while interactive filters allow users to dynamically segment the data by:
+
+- Education level
+- Remote work preference
+- Age group
+- Employment status
+
+The layout was designed to balance readability, comparison, and interactivity while showcasing how business intelligence dashboards can transform complex survey data into actionable insights.
+
+---
+
 # Top Programming Languages Used by Developers
 
-![Top Programming Languages Used by Developers](Top%20Programming%20Languages%20Us...)
+![Top Programming Languages Used by Developers](Top%20Programming%20Languages%20Used%20by%20Developers.png)
 
 This horizontal bar chart highlights the most commonly used programming languages among survey respondents.
 
@@ -55,7 +72,7 @@ The horizontal layout improves readability for larger category labels and allows
 
 # Most Popular Databases Among Developers
 
-![Most Popular Databases Among Developers](Most%20Popular%20Databases%20Among%20...)
+![Most Popular Databases Among Developers](Most%20Popular%20Databases%20Among%20Developers.png)
 
 This bar chart compares database technologies used by developers across the dataset.
 
@@ -89,7 +106,7 @@ This visualization provides an accessible summary of platform adoption trends wh
 
 # Most Popular Web Frameworks Among Developers
 
-![Most Popular Web Frameworks Among Developers](Most%20Popular%20Web%20Frameworks%20A...)
+![Most Popular Web Frameworks Among Developers](Most%20Popular%20Web%20Frameworks%20Among%20Developers.png)
 
 The packed bubble chart visualizes relative popularity among web frameworks and development technologies.
 
