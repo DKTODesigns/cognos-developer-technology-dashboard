@@ -10,7 +10,7 @@ This dashboard analyzes commonly used programming languages, databases, cloud pl
 
 # Interactive Dashboard Access
 
-🔗 [View the Live IBM Cognos Dashboard]([PASTE-YOUR-LINK-HERE](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDeveloper%2BSurvey%2BDashboard&action=view&mode=dashboard&subView=model0000019e221399bc_00000000&nav_filter=true))
+🔗 [View the Live IBM Cognos Dashboard](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDeveloper%2BSurvey%2BDashboard&action=view&mode=dashboard&subView=model0000019e221399bc_00000000&nav_filter=true)
 
 Explore the dashboard interactively using filters for:
 - Education level
