@@ -35,11 +35,9 @@ These filters allow the dashboard to support exploratory analysis and uncover ho
 
 ---
 
-# Visualizations Included
+# Top Programming Languages Used by Developers
 
-## Top Programming Languages Used by Developers
-
-![Developer Dashboard Overview](developer-dashboard-overview.png)
+![Top Programming Languages Used by Developers](Top%20Programming%20Languages%20Us...)
 
 This horizontal bar chart highlights the most commonly used programming languages among survey respondents.
 
@@ -55,9 +53,9 @@ The horizontal layout improves readability for larger category labels and allows
 
 ---
 
-## Most Popular Databases Among Developers
+# Most Popular Databases Among Developers
 
-![Database Analysis](databases-analysis-chart.png)
+![Most Popular Databases Among Developers](Most%20Popular%20Databases%20Among%20...)
 
 This bar chart compares database technologies used by developers across the dataset.
 
@@ -73,9 +71,9 @@ The visualization helps identify both mainstream and niche database technologies
 
 ---
 
-## Platforms Worked With
+# Platforms Worked With
 
-![Platforms Word Cloud](platforms-word-cloud.png)
+![Platforms Worked With](Platforms%20Worked%20With.png)
 
 The word cloud visualization provides a high-level overview of cloud and hosting platforms commonly used by developers.
 
@@ -89,9 +87,9 @@ This visualization provides an accessible summary of platform adoption trends wh
 
 ---
 
-## Most Popular Web Frameworks Among Developers
+# Most Popular Web Frameworks Among Developers
 
-![Framework Analysis](frameworks-packed-bubble.png)
+![Most Popular Web Frameworks Among Developers](Most%20Popular%20Web%20Frameworks%20A...)
 
 The packed bubble chart visualizes relative popularity among web frameworks and development technologies.
 
@@ -109,9 +107,9 @@ The packed bubble approach allows users to quickly compare proportional usage pa
 
 ---
 
-## Interactive Framework Exploration
+# Interactive Framework Exploration
 
-![Interactive Framework Analysis](interactive-framework-analysis.png)
+![Interactive Framework Analysis](framework-filter-interaction.png)
 
 The dashboard supports interactive exploration through filtering and hover interactions.
 
